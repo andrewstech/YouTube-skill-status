@@ -2,7 +2,7 @@ title: YouTube Alexa skill status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: http://skills-status.andrewstech.me/
+baseURL: https://skills-status.andrewstech.me/
 params:
   disableDarkMode: false
   shortDateFormat: 15:04 — Jan 2
@@ -16,7 +16,7 @@ params:
   headerTextColor: white
   logo: /logo.png
   incidentPostsPerPage: 10
-  googleAnalytics: UA-00000000-1
+  googleAnalytics: UA-158158168-5
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
