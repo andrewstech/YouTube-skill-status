@@ -17,6 +17,9 @@ params:
     - name: Voiceflow
       category: youtube-skill-core
       description: Hosts the skill
+    - name: URL Checking Api
+      category: youtube-skill-core
+      description: Checks the url's to check if video is playable.
   dateFormat: January 2, 2006 at 3:04 PM
   brand: "#0a0c0f"
   headerTextColor: white
