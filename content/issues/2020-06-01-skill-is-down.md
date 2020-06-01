@@ -7,6 +7,7 @@ informational: false
 resolvedWhen: 2020-06-01T17:59:50.048Z
 affected:
   - URL Checking Api
+  - YouTube Alexa Edition
 severity: down
 ---
 *Investigating* - We are investigating  the issue which is being caused by the checker API being down.
