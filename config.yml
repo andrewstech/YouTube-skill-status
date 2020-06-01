@@ -20,6 +20,9 @@ params:
     - name: URL Checking Api
       category: youtube-skill-core
       description: Checks the url's to check if video is playable.
+    - name: YouTube Alexa Edition
+      description: The skill
+      category: skill
   dateFormat: January 2, 2006 at 3:04 PM
   brand: "#0a0c0f"
   headerTextColor: white
@@ -37,6 +40,7 @@ params:
   categories:
     - name: youtube-skill-core
       untited: false
+    - name: skill
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: false
