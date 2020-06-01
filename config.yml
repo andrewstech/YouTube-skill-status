@@ -121,8 +121,8 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: North Coast
-      description: The main servers are located here.
+    - name: Youtube Api
+      description: The main servers from Youtube.
       closed: true
     - name: East Coast      
     - name: Uncategorized
