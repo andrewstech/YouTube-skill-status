@@ -41,8 +41,11 @@ params:
     - name: youtube-skill-core
       untited: false
     - name: skill
-  description: We continuously monitor the status of our services and if there are
-    any interruptions, a note will be posted here.
+  description: >-
+    We continuously monitor the status of our services and if there are any
+    interruptions, a note will be posted here.
+
+    Old versions of the skills can be found here: https://version.andrewstech.me/
   enableCustomHTML: false
   useLargeHeaderDesign: false
 theme: cstate
