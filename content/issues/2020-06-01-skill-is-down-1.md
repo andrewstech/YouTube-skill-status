@@ -11,3 +11,5 @@ affected:
 severity: down
 ---
 *Investigating* - We are investigating  the issue which is being caused by the checker API being down.
+
+*Update - We are currently looking for a replacement API to solve this problem. If anyone has any information which may help us then send us an email to. skills@andrewstech.me   Or open an issue on github.*
