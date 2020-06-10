@@ -1,10 +1,10 @@
 ---
 section: issue
 title: Skill Is Down
-date: 2020-06-01T23:03:39.740Z
+date: 2020-06-01T21:04:26.539Z
 resolved: true
 informational: false
-resolvedWhen: 2020-06-01T23:03:39.887Z
+resolvedWhen: 2020-06-10T21:04:36.539Z
 affected:
   - URL Checking Api
   - YouTube Alexa Edition
