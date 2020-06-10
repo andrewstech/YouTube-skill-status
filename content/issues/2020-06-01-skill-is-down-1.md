@@ -2,7 +2,7 @@
 section: issue
 title: Skill Is Down
 date: 2020-06-01T23:03:39.740Z
-resolved: false
+resolved: true
 informational: false
 resolvedWhen: 2020-06-01T23:03:39.887Z
 affected:
