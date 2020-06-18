@@ -2,9 +2,9 @@
 section: issue
 title: YouTube Api Usage limits
 date: 2020-06-11T07:49:28.865Z
-resolved: false
+resolved: true
 informational: false
-resolvedWhen: 2020-06-11T07:49:28.988Z
+resolvedWhen: 2020-06-18T10:54:41.663Z
 affected:
   - YouTube Api
 severity: disrupted
