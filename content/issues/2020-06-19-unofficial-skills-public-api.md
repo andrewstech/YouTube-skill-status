@@ -3,7 +3,7 @@ section: issue
 title: Unofficial Skills Public Api
 date: 2020-06-19T12:15:54.408Z
 resolved: false
-informational: true
+informational: false
 resolvedWhen: 2020-06-19T12:11:28.742Z
 affected:
   - unofficial-skills-public-api
