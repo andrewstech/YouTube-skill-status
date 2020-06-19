@@ -3,7 +3,7 @@ section: issue
 title: YouTube Api usage
 date: 2020-06-18T20:55:17.538Z
 resolved: false
-informational: false
+informational: true
 resolvedWhen: 2020-06-18T20:54:54.793Z
 affected:
   - YouTube Api
