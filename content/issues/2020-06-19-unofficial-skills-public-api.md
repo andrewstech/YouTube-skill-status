@@ -2,9 +2,9 @@
 section: issue
 title: Unofficial Skills Public Api
 date: 2020-06-19T12:15:54.408Z
-resolved: false
+resolved: true
 informational: false
-resolvedWhen: 2020-06-19T12:11:28.742Z
+resolvedWhen: 2020-06-29T18:12:33.986Z
 affected:
   - unofficial-skills-public-api
 severity: down
